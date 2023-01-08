@@ -1,4 +1,4 @@
-# Trabajo Kafka
+# Pipeline Kafka
 # Streaming de Datos IoT
 
 Grupo 03
